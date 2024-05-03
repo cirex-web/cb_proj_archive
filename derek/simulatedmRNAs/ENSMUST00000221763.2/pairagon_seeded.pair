@@ -1,0 +1,22 @@
+# pairagon /home/work/pairagon/pairagon//parameters/pairagon.zhmm ./simulatedmRNAs/ENSMUST00000221763.2/cdna.fa ./simulatedmRNAs/ENSMUST00000221763.2/genome.fa --seed=./simulatedmRNAs/ENSMUST00000221763.2//pairagon_seeded.seed --splice_mode=cdna -o -i
+# Date: Tue Apr 30 14:09:13 2024
+# Pairagon version 1.1 build 20090501
+# PairHMM Parameters: /home/work/pairagon/pairagon//parameters/pairagon.zhmm
+# Seed alignment found in + strand of cDNA. forward alignment_mode enforced
+# Spliced alignment without quality value for cDNA
+# Genomic Sequence: >cDNA_ENSMUST00000221763.2, 2495bp
+# cDNA    Sequence: >cDNA_ENSMUST00000221763.2, 911bp
+# Note Best alignment is between forward est and forward genome, and splice sites imply forward gene
+# Completed in 36.00 CPU seconds
+# Optimal score: 17317.306307
+RGenomic1   	        -133	0.0	         -48	         337	 cDNA_ENSMUST0000022	         -48	           0	 cDNA_ENSMUST0000022	+
+Match       	        1028	100.0	         338	         394	 cDNA_ENSMUST0000022	           1	          57	 cDNA_ENSMUST0000022	+
+DonorU2     	          53	0.0	         395	         402	 cDNA_ENSMUST0000022	            	            	                    	+
+IntronU2    	        -126	0.0	         403	        1616	 cDNA_ENSMUST0000022	            	            	                    	+
+BranchU2    	           0	0.0	        1617	        1624	 cDNA_ENSMUST0000022	            	            	                    	+
+BrAccU2     	         -13	0.0	        1625	        1632	 cDNA_ENSMUST0000022	            	            	                    	+
+AccU2       	          26	0.0	        1633	        1638	 cDNA_ENSMUST0000022	            	            	                    	+
+Match       	         -51	100.0	        1639	        1639	 cDNA_ENSMUST0000022	          58	          58	 cDNA_ENSMUST0000022	+
+Genomic     	         -36	0.0	        1640	        1641	 cDNA_ENSMUST0000022	            	            	                    	+
+Match       	       16267	100.0	        1642	        2494	 cDNA_ENSMUST0000022	          59	         911	 cDNA_ENSMUST0000022	+
+RGenomic2   	        -133	0.0	        2495	        2495	 cDNA_ENSMUST0000022	            	            	                    	+

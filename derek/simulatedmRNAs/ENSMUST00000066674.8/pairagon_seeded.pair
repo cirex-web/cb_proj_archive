@@ -1,0 +1,68 @@
+# pairagon /home/work/pairagon/pairagon//parameters/pairagon.zhmm ./simulatedmRNAs/ENSMUST00000066674.8/cdna.fa ./simulatedmRNAs/ENSMUST00000066674.8/genome.fa --seed=./simulatedmRNAs/ENSMUST00000066674.8//pairagon_seeded.seed --splice_mode=cdna -o -i
+# Date: Tue Apr 30 14:09:13 2024
+# Pairagon version 1.1 build 20090501
+# PairHMM Parameters: /home/work/pairagon/pairagon//parameters/pairagon.zhmm
+# Seed alignment found in + strand of cDNA. forward alignment_mode enforced
+# Spliced alignment without quality value for cDNA
+# Genomic Sequence: >cDNA_ENSMUST00000066674.8, 95682bp
+# cDNA    Sequence: >cDNA_ENSMUST00000066674.8, 998bp
+# Note Best alignment is between forward est and forward genome, and splice sites imply forward gene
+# Completed in 92.00 CPU seconds
+# Optimal score: 16341.164931
+RGenomic1   	        -165	0.0	         -48	       26235	 cDNA_ENSMUST0000006	         -48	           0	 cDNA_ENSMUST0000006	+
+Match       	        3285	100.0	       26236	       26405	 cDNA_ENSMUST0000006	           1	         170	 cDNA_ENSMUST0000006	+
+Genomic     	         -74	0.0	       26406	       26435	 cDNA_ENSMUST0000006	            	            	                    	+
+DonorU2     	           8	0.0	       26436	       26443	 cDNA_ENSMUST0000006	            	            	                    	+
+IntronU2    	        -159	0.0	       26444	       39849	 cDNA_ENSMUST0000006	            	            	                    	+
+BranchU2    	           0	0.0	       39850	       39857	 cDNA_ENSMUST0000006	            	            	                    	+
+BrAccU2     	         -13	0.0	       39858	       39865	 cDNA_ENSMUST0000006	            	            	                    	+
+AccU2       	          32	0.0	       39866	       39871	 cDNA_ENSMUST0000006	            	            	                    	+
+Genomic     	         -62	0.0	       39872	       39892	 cDNA_ENSMUST0000006	            	            	                    	+
+Match       	        2177	100.0	       39893	       40007	 cDNA_ENSMUST0000006	         171	         285	 cDNA_ENSMUST0000006	+
+DonorU2     	          37	0.0	       40008	       40015	 cDNA_ENSMUST0000006	            	            	                    	+
+IntronU2    	        -126	0.0	       40016	       41165	 cDNA_ENSMUST0000006	            	            	                    	+
+BranchU2    	           0	0.0	       41166	       41173	 cDNA_ENSMUST0000006	            	            	                    	+
+BrAccU2     	         -13	0.0	       41174	       41181	 cDNA_ENSMUST0000006	            	            	                    	+
+AccU2       	          40	0.0	       41182	       41187	 cDNA_ENSMUST0000006	            	            	                    	+
+Genomic     	         -85	0.0	       41188	       41225	 cDNA_ENSMUST0000006	            	            	                    	+
+Match       	         805	100.0	       41226	       41271	 cDNA_ENSMUST0000006	         286	         331	 cDNA_ENSMUST0000006	+
+Genomic     	         -74	0.0	       41272	       41301	 cDNA_ENSMUST0000006	            	            	                    	+
+DonorU2     	          46	0.0	       41302	       41309	 cDNA_ENSMUST0000006	            	            	                    	+
+IntronU2    	        -125	0.0	       41310	       42119	 cDNA_ENSMUST0000006	            	            	                    	+
+BranchU2    	           0	0.0	       42120	       42127	 cDNA_ENSMUST0000006	            	            	                    	+
+BrAccU2     	         -13	0.0	       42128	       42135	 cDNA_ENSMUST0000006	            	            	                    	+
+AccU2       	          61	0.0	       42136	       42141	 cDNA_ENSMUST0000006	            	            	                    	+
+Genomic     	        -134	0.0	       42142	       42214	 cDNA_ENSMUST0000006	            	            	                    	+
+Match       	        1171	100.0	       42215	       42278	 cDNA_ENSMUST0000006	         332	         395	 cDNA_ENSMUST0000006	+
+Genomic     	        -103	0.0	       42279	       42329	 cDNA_ENSMUST0000006	            	            	                    	+
+DonorU2     	          53	0.0	       42330	       42337	 cDNA_ENSMUST0000006	            	            	                    	+
+IntronU2    	        -132	0.0	       42338	       45902	 cDNA_ENSMUST0000006	            	            	                    	+
+BranchU2    	           0	0.0	       45903	       45910	 cDNA_ENSMUST0000006	            	            	                    	+
+BrAccU2     	         -13	0.0	       45911	       45918	 cDNA_ENSMUST0000006	            	            	                    	+
+AccU2       	          66	0.0	       45919	       45924	 cDNA_ENSMUST0000006	            	            	                    	+
+Genomic     	         -50	0.0	       45925	       45936	 cDNA_ENSMUST0000006	            	            	                    	+
+Match       	        1863	100.0	       45937	       46034	 cDNA_ENSMUST0000006	         396	         493	 cDNA_ENSMUST0000006	+
+DonorU2     	         -13	0.0	       46035	       46042	 cDNA_ENSMUST0000006	            	            	                    	+
+IntronU2    	        -210	0.0	       46043	       78153	 cDNA_ENSMUST0000006	            	            	                    	+
+BranchU2    	           0	0.0	       78154	       78161	 cDNA_ENSMUST0000006	            	            	                    	+
+BrAccU2     	         -13	0.0	       78162	       78169	 cDNA_ENSMUST0000006	            	            	                    	+
+AccU2       	          10	0.0	       78170	       78175	 cDNA_ENSMUST0000006	            	            	                    	+
+Genomic     	         -55	0.0	       78176	       78191	 cDNA_ENSMUST0000006	            	            	                    	+
+Match       	        2340	100.0	       78192	       78314	 cDNA_ENSMUST0000006	         494	         616	 cDNA_ENSMUST0000006	+
+Genomic     	        -114	0.0	       78315	       78373	 cDNA_ENSMUST0000006	            	            	                    	+
+DonorU2     	          52	0.0	       78374	       78381	 cDNA_ENSMUST0000006	            	            	                    	+
+IntronU2    	        -166	0.0	       78382	       94516	 cDNA_ENSMUST0000006	            	            	                    	+
+BranchU2    	           0	0.0	       94517	       94524	 cDNA_ENSMUST0000006	            	            	                    	+
+BrAccU2     	         -13	0.0	       94525	       94532	 cDNA_ENSMUST0000006	            	            	                    	+
+AccU2       	          46	0.0	       94533	       94538	 cDNA_ENSMUST0000006	            	            	                    	+
+Genomic     	         -61	0.0	       94539	       94558	 cDNA_ENSMUST0000006	            	            	                    	+
+Match       	        3664	100.0	       94559	       94748	 cDNA_ENSMUST0000006	         617	         806	 cDNA_ENSMUST0000006	+
+Genomic     	         -65	0.0	       94749	       94771	 cDNA_ENSMUST0000006	            	            	                    	+
+DonorU2     	           4	0.0	       94772	       94779	 cDNA_ENSMUST0000006	            	            	                    	+
+IntronU2    	        -124	0.0	       94780	       95452	 cDNA_ENSMUST0000006	            	            	                    	+
+BranchU2    	           0	0.0	       95453	       95460	 cDNA_ENSMUST0000006	            	            	                    	+
+BrAccU2     	         -13	0.0	       95461	       95468	 cDNA_ENSMUST0000006	            	            	                    	+
+AccU2       	          42	0.0	       95469	       95474	 cDNA_ENSMUST0000006	            	            	                    	+
+Genomic     	         -54	0.0	       95475	       95489	 cDNA_ENSMUST0000006	            	            	                    	+
+Match       	        3815	100.0	       95490	       95681	 cDNA_ENSMUST0000006	         807	         998	 cDNA_ENSMUST0000006	+
+RGenomic2   	        -133	0.0	       95682	       95682	 cDNA_ENSMUST0000006	            	            	                    	+

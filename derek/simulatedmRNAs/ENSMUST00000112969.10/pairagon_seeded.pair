@@ -1,0 +1,53 @@
+# pairagon /home/work/pairagon/pairagon//parameters/pairagon.zhmm ./simulatedmRNAs/ENSMUST00000112969.10/cdna.fa ./simulatedmRNAs/ENSMUST00000112969.10/genome.fa --seed=./simulatedmRNAs/ENSMUST00000112969.10//pairagon_seeded.seed --splice_mode=cdna -o -i
+# Date: Tue Apr 30 14:09:13 2024
+# Pairagon version 1.1 build 20090501
+# PairHMM Parameters: /home/work/pairagon/pairagon//parameters/pairagon.zhmm
+# Seed alignment found in + strand of cDNA. forward alignment_mode enforced
+# Spliced alignment without quality value for cDNA
+# Genomic Sequence: >cDNA_ENSMUST00000112969.10, 24596bp
+# cDNA    Sequence: >cDNA_ENSMUST00000112969.10, 1072bp
+# Note Best alignment is between forward est and forward genome, and splice sites imply forward gene
+# Completed in 40.00 CPU seconds
+# Optimal score: 19010.745113
+RGenomic1   	        -144	0.0	         -48	        8933	 cDNA_ENSMUST0000011	         -48	           0	 cDNA_ENSMUST0000011	+
+Match       	        2956	99.0	        8934	        9090	 cDNA_ENSMUST0000011	           1	         157	 cDNA_ENSMUST0000011	+
+Genomic     	         -65	0.0	        9091	        9113	 cDNA_ENSMUST0000011	            	            	                    	+
+DonorU2     	           7	0.0	        9114	        9121	 cDNA_ENSMUST0000011	            	            	                    	+
+IntronU2    	        -126	0.0	        9122	       10486	 cDNA_ENSMUST0000011	            	            	                    	+
+BranchU2    	           0	0.0	       10487	       10494	 cDNA_ENSMUST0000011	            	            	                    	+
+BrAccU2     	         -13	0.0	       10495	       10502	 cDNA_ENSMUST0000011	            	            	                    	+
+AccU2       	         -24	0.0	       10503	       10508	 cDNA_ENSMUST0000011	            	            	                    	+
+Match       	        1496	100.0	       10509	       10588	 cDNA_ENSMUST0000011	         158	         237	 cDNA_ENSMUST0000011	+
+DonorU2     	         -27	0.0	       10589	       10596	 cDNA_ENSMUST0000011	            	            	                    	+
+IntronU2    	        -128	0.0	       10597	       12504	 cDNA_ENSMUST0000011	            	            	                    	+
+BranchU2    	           0	0.0	       12505	       12512	 cDNA_ENSMUST0000011	            	            	                    	+
+BrAccU2     	         -13	0.0	       12513	       12520	 cDNA_ENSMUST0000011	            	            	                    	+
+AccU2       	           7	0.0	       12521	       12526	 cDNA_ENSMUST0000011	            	            	                    	+
+Match       	         -51	100.0	       12527	       12527	 cDNA_ENSMUST0000011	         238	         238	 cDNA_ENSMUST0000011	+
+Genomic     	         -85	0.0	       12528	       12565	 cDNA_ENSMUST0000011	            	            	                    	+
+Match       	        3815	99.0	       12566	       12765	 cDNA_ENSMUST0000011	         239	         438	 cDNA_ENSMUST0000011	+
+Genomic     	         -40	0.0	       12766	       12770	 cDNA_ENSMUST0000011	            	            	                    	+
+DonorU2     	          42	0.0	       12771	       12778	 cDNA_ENSMUST0000011	            	            	                    	+
+IntronU2    	        -132	0.0	       12779	       16352	 cDNA_ENSMUST0000011	            	            	                    	+
+BranchU2    	           0	0.0	       16353	       16360	 cDNA_ENSMUST0000011	            	            	                    	+
+BrAccU2     	         -13	0.0	       16361	       16368	 cDNA_ENSMUST0000011	            	            	                    	+
+AccU2       	          28	0.0	       16369	       16374	 cDNA_ENSMUST0000011	            	            	                    	+
+Genomic     	         -43	0.0	       16375	       16381	 cDNA_ENSMUST0000011	            	            	                    	+
+Match       	        2897	100.0	       16382	       16535	 cDNA_ENSMUST0000011	         439	         592	 cDNA_ENSMUST0000011	+
+Genomic     	         -65	0.0	       16536	       16558	 cDNA_ENSMUST0000011	            	            	                    	+
+DonorU2     	          77	0.0	       16559	       16566	 cDNA_ENSMUST0000011	            	            	                    	+
+IntronU2    	        -135	0.0	       16567	       21155	 cDNA_ENSMUST0000011	            	            	                    	+
+BranchU2    	           0	0.0	       21156	       21163	 cDNA_ENSMUST0000011	            	            	                    	+
+BrAccU2     	         -13	0.0	       21164	       21171	 cDNA_ENSMUST0000011	            	            	                    	+
+AccU2       	          72	0.0	       21172	       21177	 cDNA_ENSMUST0000011	            	            	                    	+
+Genomic     	         -44	0.0	       21178	       21185	 cDNA_ENSMUST0000011	            	            	                    	+
+Match       	        3149	100.0	       21186	       21350	 cDNA_ENSMUST0000011	         593	         757	 cDNA_ENSMUST0000011	+
+Genomic     	         -96	0.0	       21351	       21396	 cDNA_ENSMUST0000011	            	            	                    	+
+DonorU2     	          39	0.0	       21397	       21404	 cDNA_ENSMUST0000011	            	            	                    	+
+IntronU2    	        -130	0.0	       21405	       24242	 cDNA_ENSMUST0000011	            	            	                    	+
+BranchU2    	           0	0.0	       24243	       24250	 cDNA_ENSMUST0000011	            	            	                    	+
+BrAccU2     	         -13	0.0	       24251	       24258	 cDNA_ENSMUST0000011	            	            	                    	+
+AccU2       	          68	0.0	       24259	       24264	 cDNA_ENSMUST0000011	            	            	                    	+
+Genomic     	         -55	0.0	       24265	       24280	 cDNA_ENSMUST0000011	            	            	                    	+
+Match       	        6311	100.0	       24281	       24595	 cDNA_ENSMUST0000011	         758	        1072	 cDNA_ENSMUST0000011	+
+RGenomic2   	        -133	0.0	       24596	       24596	 cDNA_ENSMUST0000011	            	            	                    	+

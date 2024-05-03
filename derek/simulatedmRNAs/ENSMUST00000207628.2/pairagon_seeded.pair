@@ -1,0 +1,21 @@
+# pairagon /home/work/pairagon/pairagon//parameters/pairagon.zhmm ./simulatedmRNAs/ENSMUST00000207628.2/cdna.fa ./simulatedmRNAs/ENSMUST00000207628.2/genome.fa --seed=./simulatedmRNAs/ENSMUST00000207628.2//pairagon_seeded.seed --splice_mode=cdna -o -i
+# Date: Tue Apr 30 14:09:13 2024
+# Pairagon version 1.1 build 20090501
+# PairHMM Parameters: /home/work/pairagon/pairagon//parameters/pairagon.zhmm
+# Seed alignment found in + strand of cDNA. forward alignment_mode enforced
+# Spliced alignment without quality value for cDNA
+# Genomic Sequence: >cDNA_ENSMUST00000207628.2, 13714bp
+# cDNA    Sequence: >cDNA_ENSMUST00000207628.2, 242bp
+# Note Best alignment is between forward est and forward genome, and splice sites imply forward gene
+# Completed in 49.00 CPU seconds
+# Optimal score: 4655.221697
+RGenomic1   	        -134	0.0	         -48	         777	 cDNA_ENSMUST0000020	         -48	           0	 cDNA_ENSMUST0000020	+
+Match       	        1736	100.0	         778	         868	 cDNA_ENSMUST0000020	           1	          91	 cDNA_ENSMUST0000020	+
+DonorU2     	         -30	0.0	         869	         876	 cDNA_ENSMUST0000020	            	            	                    	+
+IntronU2    	        -157	0.0	         877	       13497	 cDNA_ENSMUST0000020	            	            	                    	+
+BranchU2    	           0	0.0	       13498	       13505	 cDNA_ENSMUST0000020	            	            	                    	+
+BrAccU2     	         -13	0.0	       13506	       13513	 cDNA_ENSMUST0000020	            	            	                    	+
+AccU2       	          73	0.0	       13514	       13519	 cDNA_ENSMUST0000020	            	            	                    	+
+Genomic     	         -92	0.0	       13520	       13562	 cDNA_ENSMUST0000020	            	            	                    	+
+Match       	        3035	100.0	       13563	       13713	 cDNA_ENSMUST0000020	          92	         242	 cDNA_ENSMUST0000020	+
+RGenomic2   	        -133	0.0	       13714	       13714	 cDNA_ENSMUST0000020	            	            	                    	+

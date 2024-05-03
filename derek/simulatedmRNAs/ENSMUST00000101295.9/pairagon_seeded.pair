@@ -1,0 +1,24 @@
+# pairagon /home/work/pairagon/pairagon//parameters/pairagon.zhmm ./simulatedmRNAs/ENSMUST00000101295.9/cdna.fa ./simulatedmRNAs/ENSMUST00000101295.9/genome.fa --seed=./simulatedmRNAs/ENSMUST00000101295.9//pairagon_seeded.seed --splice_mode=cdna -o -i
+# Date: Tue Apr 30 14:10:14 2024
+# Pairagon version 1.1 build 20090501
+# PairHMM Parameters: /home/work/pairagon/pairagon//parameters/pairagon.zhmm
+# Seed alignment found in + strand of cDNA. forward alignment_mode enforced
+# Spliced alignment without quality value for cDNA
+# Genomic Sequence: >cDNA_ENSMUST00000101295.9, 35354bp
+# cDNA    Sequence: >cDNA_ENSMUST00000101295.9, 1466bp
+# Note Best alignment is between forward est and forward genome, and splice sites imply forward gene
+# Completed in 64.00 CPU seconds
+# Optimal score: 28099.976352
+RGenomic1   	        -160	0.0	         -48	       22711	 cDNA_ENSMUST0000010	         -48	           0	 cDNA_ENSMUST0000010	+
+Match       	       23938	100.0	       22712	       23943	 cDNA_ENSMUST0000010	           1	        1232	 cDNA_ENSMUST0000010	+
+DonorU2     	           3	0.0	       23944	       23951	 cDNA_ENSMUST0000010	            	            	                    	+
+IntronU2    	        -153	0.0	       23952	       34984	 cDNA_ENSMUST0000010	            	            	                    	+
+BranchU2    	           0	0.0	       34985	       34992	 cDNA_ENSMUST0000010	            	            	                    	+
+BrAccU2     	         -13	0.0	       34993	       35000	 cDNA_ENSMUST0000010	            	            	                    	+
+AccU2       	          71	0.0	       35001	       35006	 cDNA_ENSMUST0000010	            	            	                    	+
+Match       	         -15	100.0	       35007	       35009	 cDNA_ENSMUST0000010	        1233	        1235	 cDNA_ENSMUST0000010	+
+Genomic     	         -35	0.0	       35010	       35010	 cDNA_ENSMUST0000010	            	            	                    	+
+Match       	        2880	100.0	       35011	       35159	 cDNA_ENSMUST0000010	        1236	        1384	 cDNA_ENSMUST0000010	+
+Genomic     	        -187	0.0	       35160	       35271	 cDNA_ENSMUST0000010	            	            	                    	+
+Match       	        1525	100.0	       35272	       35353	 cDNA_ENSMUST0000010	        1385	        1466	 cDNA_ENSMUST0000010	+
+RGenomic2   	        -133	0.0	       35354	       35354	 cDNA_ENSMUST0000010	            	            	                    	+
