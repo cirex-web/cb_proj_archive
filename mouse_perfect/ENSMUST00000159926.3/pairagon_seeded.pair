@@ -1,0 +1,62 @@
+# pairagon /home/work/pairagon/pairagon//parameters/pairagon.zhmm ./mouse_perfect/ENSMUST00000159926.3/cdna.fa ./mouse_perfect/ENSMUST00000159926.3/genome.fa --seed=./mouse_perfect/ENSMUST00000159926.3//pairagon_seeded.seed --splice_mode=cdna -o -i
+# Date: Sat Apr 27 16:43:48 2024
+# Pairagon version 1.1 build 20090501
+# PairHMM Parameters: /home/work/pairagon/pairagon//parameters/pairagon.zhmm
+# Seed alignment found in + strand of cDNA. forward alignment_mode enforced
+# Spliced alignment without quality value for cDNA
+# Genomic Sequence: >ENSMUST00000159926.3 ENSMUSG00000027880.7, 36088bp
+# cDNA    Sequence: >cDNA_ENSMUST00000159926.3 ENSMUSG00000027880.7, 1518bp
+# Note Best alignment is between forward est and forward genome, and splice sites imply forward gene
+# Completed in 69.00 CPU seconds
+# Optimal score: 28970.564710
+RGenomic1   	        -133	0.0	         -48	           2	 ENSMUST00000159926.	         -48	           0	 cDNA_ENSMUST0000015	+
+Match       	        6607	100.0	           3	         338	 ENSMUST00000159926.	           1	         336	 cDNA_ENSMUST0000015	+
+DonorU2     	          72	0.0	         339	         346	 ENSMUST00000159926.	            	            	                    	+
+IntronU2    	        -159	0.0	         347	       13689	 ENSMUST00000159926.	            	            	                    	+
+BranchU2    	           0	0.0	       13690	       13697	 ENSMUST00000159926.	            	            	                    	+
+BrAccU2     	         -13	0.0	       13698	       13705	 ENSMUST00000159926.	            	            	                    	+
+AccU2       	          30	0.0	       13706	       13711	 ENSMUST00000159926.	            	            	                    	+
+Match       	        1640	100.0	       13712	       13799	 ENSMUST00000159926.	         337	         424	 cDNA_ENSMUST0000015	+
+DonorU2     	          33	0.0	       13800	       13807	 ENSMUST00000159926.	            	            	                    	+
+IntronU2    	        -134	0.0	       13808	       18057	 ENSMUST00000159926.	            	            	                    	+
+BranchU2    	           0	0.0	       18058	       18065	 ENSMUST00000159926.	            	            	                    	+
+BrAccU2     	         -13	0.0	       18066	       18073	 ENSMUST00000159926.	            	            	                    	+
+AccU2       	          72	0.0	       18074	       18079	 ENSMUST00000159926.	            	            	                    	+
+Match       	        2097	100.0	       18080	       18191	 ENSMUST00000159926.	         425	         536	 cDNA_ENSMUST0000015	+
+DonorU2     	          74	0.0	       18192	       18199	 ENSMUST00000159926.	            	            	                    	+
+IntronU2    	        -133	0.0	       18200	       22178	 ENSMUST00000159926.	            	            	                    	+
+BranchU2    	           0	0.0	       22179	       22186	 ENSMUST00000159926.	            	            	                    	+
+BrAccU2     	         -13	0.0	       22187	       22194	 ENSMUST00000159926.	            	            	                    	+
+AccU2       	          45	0.0	       22195	       22200	 ENSMUST00000159926.	            	            	                    	+
+Match       	        3036	100.0	       22201	       22359	 ENSMUST00000159926.	         537	         695	 cDNA_ENSMUST0000015	+
+DonorU2     	          26	0.0	       22360	       22367	 ENSMUST00000159926.	            	            	                    	+
+IntronU2    	        -134	0.0	       22368	       26718	 ENSMUST00000159926.	            	            	                    	+
+BranchU2    	           0	0.0	       26719	       26726	 ENSMUST00000159926.	            	            	                    	+
+BrAccU2     	         -13	0.0	       26727	       26734	 ENSMUST00000159926.	            	            	                    	+
+AccU2       	          61	0.0	       26735	       26740	 ENSMUST00000159926.	            	            	                    	+
+Match       	        2885	100.0	       26741	       26893	 ENSMUST00000159926.	         696	         848	 cDNA_ENSMUST0000015	+
+DonorU2     	          72	0.0	       26894	       26901	 ENSMUST00000159926.	            	            	                    	+
+IntronU2    	        -132	0.0	       26902	       30509	 ENSMUST00000159926.	            	            	                    	+
+BranchU2    	           0	0.0	       30510	       30517	 ENSMUST00000159926.	            	            	                    	+
+BrAccU2     	         -13	0.0	       30518	       30525	 ENSMUST00000159926.	            	            	                    	+
+AccU2       	          44	0.0	       30526	       30531	 ENSMUST00000159926.	            	            	                    	+
+Match       	        2019	100.0	       30532	       30639	 ENSMUST00000159926.	         849	         956	 cDNA_ENSMUST0000015	+
+DonorU2     	          61	0.0	       30640	       30647	 ENSMUST00000159926.	            	            	                    	+
+IntronU2    	        -125	0.0	       30648	       31493	 ENSMUST00000159926.	            	            	                    	+
+BranchU2    	           0	0.0	       31494	       31501	 ENSMUST00000159926.	            	            	                    	+
+BrAccU2     	         -13	0.0	       31502	       31509	 ENSMUST00000159926.	            	            	                    	+
+AccU2       	          24	0.0	       31510	       31515	 ENSMUST00000159926.	            	            	                    	+
+Match       	        3208	100.0	       31516	       31683	 ENSMUST00000159926.	         957	        1124	 cDNA_ENSMUST0000015	+
+DonorU2     	          84	0.0	       31684	       31691	 ENSMUST00000159926.	            	            	                    	+
+IntronU2    	        -124	0.0	       31692	       32251	 ENSMUST00000159926.	            	            	                    	+
+BranchU2    	           0	0.0	       32252	       32259	 ENSMUST00000159926.	            	            	                    	+
+BrAccU2     	         -13	0.0	       32260	       32267	 ENSMUST00000159926.	            	            	                    	+
+AccU2       	          49	0.0	       32268	       32273	 ENSMUST00000159926.	            	            	                    	+
+Match       	        2826	100.0	       32274	       32421	 ENSMUST00000159926.	        1125	        1272	 cDNA_ENSMUST0000015	+
+DonorU2     	          81	0.0	       32422	       32429	 ENSMUST00000159926.	            	            	                    	+
+IntronU2    	        -132	0.0	       32430	       35818	 ENSMUST00000159926.	            	            	                    	+
+BranchU2    	           0	0.0	       35819	       35826	 ENSMUST00000159926.	            	            	                    	+
+BrAccU2     	         -13	0.0	       35827	       35834	 ENSMUST00000159926.	            	            	                    	+
+AccU2       	          57	0.0	       35835	       35840	 ENSMUST00000159926.	            	            	                    	+
+Match       	        4736	100.0	       35841	       36086	 ENSMUST00000159926.	        1273	        1518	 cDNA_ENSMUST0000015	+
+RGenomic2   	        -133	0.0	       36087	       36088	 ENSMUST00000159926.	            	            	                    	+

@@ -1,0 +1,32 @@
+# pairagon /home/work/pairagon/pairagon//parameters/pairagonx.zhmm ./mouse_perfect/ENSMUST00000081896.5/cdna.fa ./mouse_perfect/ENSMUST00000081896.5/genome.fa --seed=./mouse_perfect/ENSMUST00000081896.5//pairagon_seeded_cross.seed --splice_mode=cdna -o -i
+# Date: Mon Apr 29 16:54:25 2024
+# Pairagon version 1.1 build 20090501
+# PairHMM Parameters: /home/work/pairagon/pairagon//parameters/pairagonx.zhmm
+# Seed alignment found in - strand of cDNA. reverse alignment_mode enforced
+# Spliced alignment without quality value for cDNA
+# Genomic Sequence: >ENSMUST00000081896.5 ENSMUSG00000062511.7, 38606bp
+# cDNA    Sequence: >cDNA_ENSMUST00000081896.5 ENSMUSG00000062511.7, 715bp
+# Note Best alignment is between reversed est and forward genome, but splice sites imply REVERSED gene
+# Completed in 47.00 CPU seconds
+# Optimal score: 13306.195530
+RGenomic1   	        -135	0.0	         -48	           2	 ENSMUST00000081896.	         -48	           0	 cDNA_ENSMUST0000008	-
+Match       	        2590	100.0	           3	         142	 ENSMUST00000081896.	           1	         140	 cDNA_ENSMUST0000008	-
+AccU2       	          57	0.0	         143	         148	 ENSMUST00000081896.	            	            	                    	-
+BrAccU2     	         -33	0.0	         149	         157	 ENSMUST00000081896.	            	            	                    	-
+BranchU2    	           0	0.0	         158	         165	 ENSMUST00000081896.	            	            	                    	-
+IntronU2    	        -122	0.0	         166	         823	 ENSMUST00000081896.	            	            	                    	-
+DonorU2     	          72	0.0	         824	         831	 ENSMUST00000081896.	            	            	                    	-
+Match       	        1231	100.0	         832	         899	 ENSMUST00000081896.	         141	         208	 cDNA_ENSMUST0000008	-
+AccU2       	          59	0.0	         900	         905	 ENSMUST00000081896.	            	            	                    	-
+BrAccU2     	         -33	0.0	         906	         914	 ENSMUST00000081896.	            	            	                    	-
+BranchU2    	           0	0.0	         915	         922	 ENSMUST00000081896.	            	            	                    	-
+IntronU2    	        -231	0.0	         923	       35414	 ENSMUST00000081896.	            	            	                    	-
+DonorU2     	          90	0.0	       35415	       35422	 ENSMUST00000081896.	            	            	                    	-
+Match       	        1276	100.0	       35423	       35491	 ENSMUST00000081896.	         209	         277	 cDNA_ENSMUST0000008	-
+AccU2       	          71	0.0	       35492	       35497	 ENSMUST00000081896.	            	            	                    	-
+BrAccU2     	         -33	0.0	       35498	       35506	 ENSMUST00000081896.	            	            	                    	-
+BranchU2    	           0	0.0	       35507	       35514	 ENSMUST00000081896.	            	            	                    	-
+IntronU2    	        -129	0.0	       35515	       38158	 ENSMUST00000081896.	            	            	                    	-
+DonorU2     	          87	0.0	       38159	       38166	 ENSMUST00000081896.	            	            	                    	-
+Match       	        8164	100.0	       38167	       38604	 ENSMUST00000081896.	         278	         715	 cDNA_ENSMUST0000008	-
+RGenomic2   	        -133	0.0	       38605	       38606	 ENSMUST00000081896.	            	            	                    	-

@@ -1,0 +1,6 @@
+>cDNA_ENSMUST00000133599.2 ENSMUSG00000087296.2
+genomic_boundary_start=1 genomic_boundary_end=26688 strand=-
+count=3
+(3, 1) (375, 373)
+(1936, 374) (2042, 480)
+(26528, 481) (26686, 639)

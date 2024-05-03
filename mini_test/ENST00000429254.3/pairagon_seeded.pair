@@ -1,0 +1,20 @@
+# pairagon /home/work/pairagon/pairagon//parameters/pairagon.zhmm ./test_stricter_human_genome_with_2_nt_ext/ENST00000429254.3/cdna.fa ./test_stricter_human_genome_with_2_nt_ext/ENST00000429254.3/genome.fa --seed=./test_stricter_human_genome_with_2_nt_ext/ENST00000429254.3//pairagon_seeded.seed --splice_mode=cdna -o -i
+# Date: Fri Apr 19 19:40:22 2024
+# Pairagon version 1.1 build 20090501
+# PairHMM Parameters: /home/work/pairagon/pairagon//parameters/pairagon.zhmm
+# Seed alignment found in + strand of cDNA. forward alignment_mode enforced
+# Spliced alignment without quality value for cDNA
+# Genomic Sequence: >ENST00000429254.3 ENSG00000232301.3, 1793bp
+# cDNA    Sequence: >cDNA_ENST00000429254.3 ENSG00000232301.3, 887bp
+# Note Best alignment is between forward est and forward genome, and splice sites imply forward gene
+# Completed in 19.00 CPU seconds
+# Optimal score: 17514.687177
+RGenomic1   	        -133	0.0	         -48	           2	   ENST00000429254.3	         -48	           0	 cDNA_ENST0000042925	+
+Match       	        6180	100.0	           3	         311	   ENST00000429254.3	           1	         309	 cDNA_ENST0000042925	+
+DonorU2     	          89	0.0	         312	         319	   ENST00000429254.3	            	            	                    	+
+IntronU2    	        -125	0.0	         320	        1191	   ENST00000429254.3	            	            	                    	+
+BranchU2    	           0	0.0	        1192	        1199	   ENST00000429254.3	            	            	                    	+
+BrAccU2     	         -13	0.0	        1200	        1207	   ENST00000429254.3	            	            	                    	+
+AccU2       	          71	0.0	        1208	        1213	   ENST00000429254.3	            	            	                    	+
+Match       	       11087	100.0	        1214	        1791	   ENST00000429254.3	         310	         887	 cDNA_ENST0000042925	+
+RGenomic2   	        -133	0.0	        1792	        1793	   ENST00000429254.3	            	            	                    	+

@@ -1,0 +1,26 @@
+# pairagon pairagon_generations/0/6.zhmm ./mini_test/ENST00000533953.5/cdna.fa ./mini_test/ENST00000533953.5/genome.fa --seed=./mini_test/ENST00000533953.5//6_.seed --splice_mode=cdna -o -i
+# Date: Wed May  1 22:45:11 2024
+# Pairagon version 1.1 build 20090501
+# PairHMM Parameters: pairagon_generations/0/6.zhmm
+# Seed alignment found in + strand of cDNA. forward alignment_mode enforced
+# Spliced alignment without quality value for cDNA
+# Genomic Sequence: >ENST00000533953.5 ENSG00000089505.18, 12709bp
+# cDNA    Sequence: >cDNA_ENST00000533953.5 ENSG00000089505.18, 934bp
+# Note Best alignment is between forward est and forward genome, and splice sites imply forward gene
+# Completed in 20.00 CPU seconds
+# Optimal score: 18597.511257
+RGenomic1   	        -133	0.0	         -48	           2	   ENST00000533953.5	         -48	           0	 cDNA_ENST0000053395	+
+Match       	       10542	100.0	           3	         532	   ENST00000533953.5	           1	         530	 cDNA_ENST0000053395	+
+DonorU2     	          72	0.0	         533	         540	   ENST00000533953.5	            	            	                    	+
+IntronU2    	        -150	0.0	         541	       10653	   ENST00000533953.5	            	            	                    	+
+BranchU2    	           0	0.0	       10654	       10661	   ENST00000533953.5	            	            	                    	+
+BrAccU2     	         -13	0.0	       10662	       10669	   ENST00000533953.5	            	            	                    	+
+AccU2       	          70	0.0	       10670	       10675	   ENST00000533953.5	            	            	                    	+
+Match       	        1853	100.0	       10676	       10774	   ENST00000533953.5	         531	         629	 cDNA_ENST0000053395	+
+DonorU2     	          92	0.0	       10775	       10782	   ENST00000533953.5	            	            	                    	+
+IntronU2    	        -127	0.0	       10783	       12380	   ENST00000533953.5	            	            	                    	+
+BranchU2    	           0	0.0	       12381	       12388	   ENST00000533953.5	            	            	                    	+
+BrAccU2     	         -13	0.0	       12389	       12396	   ENST00000533953.5	            	            	                    	+
+AccU2       	          43	0.0	       12397	       12402	   ENST00000533953.5	            	            	                    	+
+Match       	        6001	100.0	       12403	       12707	   ENST00000533953.5	         630	         934	 cDNA_ENST0000053395	+
+RGenomic2   	        -133	0.0	       12708	       12709	   ENST00000533953.5	            	            	                    	+

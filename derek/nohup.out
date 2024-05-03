@@ -1,0 +1,616 @@
+GMAP version 2024-03-15 called with args: gmap.avx512 -gGMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000206687.2/genome.fa ./simulatedmRNAs/ENSMUST00000206687.2/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000109697.8/genome.fa ./simulatedmRNAs/ENSMUST00000109697.8/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000221763.2/genome.fa ./simulatedmRNAs/ENSMUST00000221763.2/cdna.fa --format=3
+GMAP version 2024-03-15 called with args:Checking compiler assumptions for SSE2:  gmap.avx5126B8B4567 327B23C6 -g xor=59F066A1
+ ./simulatedmRNAs/ENSMUST00000202578.4/genome.faChecking compiler assumptions for SSE4.1:  ./simulatedmRNAs/ENSMUST00000202578.4/cdna.fa-103 -58 --format=3 max=198 => 
+compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 Checking compiler assumptions for SSE2: __builtin_popcount=17 6B8B4567 327B23C6
+ xor=59F066A1
+Finished checking compiler assumptions
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Starting alignment
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000029805.13/genome.fa ./simulatedmRNAs/ENSMUST00000029805.13/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: GMAP version 2024-03-15 called with args:6B8B4567 __builtin_clz=1  gmap.avx512__builtin_ctz=0  -g_mm_popcnt_u32=17  ./simulatedmRNAs/ENSMUST00000066674.8/genome.fa__builtin_popcount=17  ./simulatedmRNAs/ENSMUST00000066674.8/cdna.fa
+ --format=3Finished checking compiler assumptions
+
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000041944.9/genome.fa ./simulatedmRNAs/ENSMUST00000041944.9/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58GMAP version 2024-03-15 called with args: max=198 => compiler zero extends
+ gmap.avx512Checking compiler options for SSE4.2:  -g6B8B4567  ./simulatedmRNAs/ENSMUST00000141000.2/genome.fa__builtin_clz=1  ./simulatedmRNAs/ENSMUST00000141000.2/cdna.fa__builtin_ctz=0  --format=3_mm_popcnt_u32=17 
+__builtin_popcount=17 
+Finished checking compiler assumptions
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000106964.8/genome.fa ./simulatedmRNAs/ENSMUST00000106964.8/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000207628.2/genome.fa ./simulatedmRNAs/ENSMUST00000207628.2/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Starting alignment
+Starting alignment
+Starting alignment
+Starting alignment
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000166170.9/genome.fa ./simulatedmRNAs/ENSMUST00000166170.9/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.01 seconds (167.36 queries/sec)
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000110186.9/genome.fa ./simulatedmRNAs/ENSMUST00000110186.9/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Processed 1 queries in 0.00 seconds (327.74 queries/sec)
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000098237.9/genome.fa ./simulatedmRNAs/ENSMUST00000098237.9/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000033918.4/genome.fa ./simulatedmRNAs/ENSMUST00000033918.4/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Starting alignment
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Processed 1 queries in 0.00 seconds (200.54 queries/sec)
+Processed 1 queries in 0.01 seconds (136.85 queries/sec)
+Starting alignment
+Processed 1 queries in 0.01 seconds (146.45 queries/sec)
+ ./simulatedmRNAs/ENSMUST00000032560.6/genome.fa ./simulatedmRNAs/ENSMUST00000032560.6/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Processed 1 queries in 0.01 seconds (89.40 queries/sec)
+Starting alignment
+Starting alignment
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000153523.2/genome.fa ./simulatedmRNAs/ENSMUST00000153523.2/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Starting alignment
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000100841.9/genome.fa ./simulatedmRNAs/ENSMUST00000100841.9/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000108571.9/genome.fa ./simulatedmRNAs/ENSMUST00000108571.9/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000032629.16/genome.fa ./simulatedmRNAs/ENSMUST00000032629.16/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Processed 1 queries in 0.01 seconds (152.34 queries/sec)
+Processed 1 queries in 0.01 seconds (89.06 queries/sec)
+Processed 1 queries in 0.01 seconds (116.63 queries/sec)
+Processed 1 queries in 0.01 seconds (137.37 queries/sec)
+Processed 1 queries in 0.01 seconds (94.50 queries/sec)
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000103199.9/genome.fa ./simulatedmRNAs/ENSMUST00000103199.9/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Starting alignment
+Finished checking compiler assumptions
+Starting alignment
+GMAP version 2024-03-15 called with args: gmap.avx512Processed 1 queries in 0.01 seconds (82.02 queries/sec)
+ -g ./simulatedmRNAs/ENSMUST00000222784.2/genome.fa ./simulatedmRNAs/ENSMUST00000222784.2/cdna.faStarting alignment
+GMAP version 2024-03-15 called with args: gmap.avx512 -gGMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000030140.3/genome.fa ./simulatedmRNAs/ENSMUST00000030140.3/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+GMAP version 2024-03-15 called with args:GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000016143.9/genome.fa ./simulatedmRNAs/ENSMUST00000016143.9/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+ gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000202651.4/genome.fa ./simulatedmRNAs/ENSMUST00000202651.4/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Processed 1 queries in 0.01 seconds (147.80 queries/sec)
+ --format=3Processed 1 queries in 0.02 seconds (52.86 queries/sec)
+
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+GMAP version 2024-03-15 called with args: gmap.avx512 ./simulatedmRNAs/ENSMUST00000212168.2/genome.faGMAP version 2024-03-15 called with args: ./simulatedmRNAs/ENSMUST00000212168.2/cdna.fa --format=3
+ gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000108831.8/genome.fa ./simulatedmRNAs/ENSMUST00000108831.8/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => Checking compiler assumptions for SSE2: compiler zero extends
+6B8B4567 327B23C6Checking compiler options for SSE4.2:  xor=59F066A1
+6B8B4567 Checking compiler assumptions for SSE4.1: __builtin_clz=1 -103 -58__builtin_ctz=0  max=198 => _mm_popcnt_u32=17 compiler zero extends
+__builtin_popcount=17 Checking compiler options for SSE4.2: 
+6B8B4567 Finished checking compiler assumptions
+__builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Starting alignment
+Processed 1 queries in 0.04 seconds (25.97 queries/sec)
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000185618.2/genome.fa ./simulatedmRNAs/ENSMUST00000185618.2/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.03 seconds (30.86 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+Starting alignment
+Starting alignment
+Processed 1 queries in 0.00 seconds (334.69 queries/sec)
+Processed 1 queries in 0.03 seconds (34.64 queries/sec)
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000048112.13/genome.fa ./simulatedmRNAs/ENSMUST00000048112.13/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000187666.2/genome.fa ./simulatedmRNAs/ENSMUST00000187666.2/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+# Running alignment_mode=forward, splice_mode=forward
+Processed 1 queries in 0.03 seconds (32.96 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+# Running alignment_mode=forward, splice_mode=forward
+Starting alignment
+# Running alignment_mode=forward, splice_mode=forward
+Starting alignment
+GMAP version 2024-03-15 called with args: gmap.avx512 -gGMAP version 2024-03-15 called with args: ./simulatedmRNAs/ENSMUST00000134446.8/genome.fa ./simulatedmRNAs/ENSMUST00000134446.8/cdna.faStarting alignment
+ --format=3 gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000223490.2/genome.fa
+ ./simulatedmRNAs/ENSMUST00000223490.2/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58Checking compiler assumptions for SSE2:  max=198 => 6B8B4567 327B23C6compiler zero extends
+ xor=59F066A1
+Checking compiler options for SSE4.2: Checking compiler assumptions for SSE4.1: 6B8B4567 # Running alignment_mode=forward, splice_mode=forward
+-103 -58__builtin_clz=1  max=198 => __builtin_ctz=0 compiler zero extends
+_mm_popcnt_u32=17 Checking compiler options for SSE4.2: __builtin_popcount=17 6B8B4567 
+__builtin_clz=1 Finished checking compiler assumptions
+__builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+# Running alignment_mode=forward, splice_mode=forward
+Starting alignment
+# Running alignment_mode=forward, splice_mode=forward
+Starting alignment
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000050990.10/genome.fa ./simulatedmRNAs/ENSMUST00000050990.10/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Processed 1 queries in 0.04 seconds (23.07 queries/sec)
+Processed 1 queries in 0.03 seconds (36.17 queries/sec)
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000134663.2/genome.fa ./simulatedmRNAs/ENSMUST00000134663.2/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+ -g ./simulatedmRNAs/ENSMUST00000177289.9/genome.fa ./simulatedmRNAs/ENSMUST00000177289.9/cdna.fa --format=3
+GMAP version 2024-03-15 called with args:Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 gmap.avx512 max=198 =>  -gcompiler zero extends
+ ./simulatedmRNAs/ENSMUST00000112969.10/genome.faChecking compiler options for SSE4.2:  ./simulatedmRNAs/ENSMUST00000112969.10/cdna.fa6B8B4567  --format=3__builtin_clz=1 Starting alignment
+__builtin_ctz=0 
+_mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+# Running alignment_mode=forward, splice_mode=forward
+Starting alignment
+Processed 1 queries in 0.01 seconds (69.67 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+# Running alignment_mode=forward, splice_mode=forward
+Processed 1 queries in 0.03 seconds (29.89 queries/sec)
+Starting alignment
+Processed 1 queries in 0.04 seconds (27.26 queries/sec)
+Processed 1 queries in 0.01 seconds (93.84 queries/sec)
+Processed 1 queries in 0.01 seconds (114.08 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+Processed 1 queries in 0.03 seconds (28.80 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+Starting alignment
+# Running alignment_mode=forward, splice_mode=forward
+# Running alignment_mode=forward, splice_mode=forward
+# Running alignment_mode=forward, splice_mode=forward
+# Running alignment_mode=forward, splice_mode=forward
+# Running alignment_mode=forward, splice_mode=forward
+# Running alignment_mode=forward, splice_mode=forward
+# Running alignment_mode=forward, splice_mode=forward
+# Running alignment_mode=forward, splice_mode=forward
+Processed 1 queries in 0.02 seconds (40.24 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+# Running alignment_mode=forward, splice_mode=forward
+Processed 1 queries in 0.05 seconds (19.27 queries/sec)
+Processed 1 queries in 0.06 seconds (17.81 queries/sec)
+Processed 1 queries in 0.05 seconds (22.07 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+# Running alignment_mode=forward, splice_mode=forward
+Processed 1 queries in 0.04 seconds (27.88 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+Processed 1 queries in 0.07 seconds (14.20 queries/sec)
+Processed 1 queries in 0.09 seconds (10.56 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+Processed 1 queries in 0.07 seconds (15.28 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+# Running alignment_mode=forward, splice_mode=forward
+# Running alignment_mode=forward, splice_mode=forward
+# Running alignment_mode=forward, splice_mode=forward
+# Running alignment_mode=forward, splice_mode=forward
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000071993.13/genome.fa ./simulatedmRNAs/ENSMUST00000071993.13/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.02 seconds (64.99 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000160853.8/genome.fa ./simulatedmRNAs/ENSMUST00000160853.8/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.01 seconds (140.24 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000025751.11/genome.fa ./simulatedmRNAs/ENSMUST00000025751.11/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.04 seconds (28.24 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000178341.2/genome.fa ./simulatedmRNAs/ENSMUST00000178341.2/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.00 seconds (292.57 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000033331.7/genome.fa ./simulatedmRNAs/ENSMUST00000033331.7/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.01 seconds (155.81 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000227009.2/genome.fa ./simulatedmRNAs/ENSMUST00000227009.2/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.00 seconds (371.63 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000020161.10/genome.fa ./simulatedmRNAs/ENSMUST00000020161.10/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.01 seconds (122.48 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000186801.2/genome.fa ./simulatedmRNAs/ENSMUST00000186801.2/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.03 seconds (28.77 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000098845.10/genome.fa ./simulatedmRNAs/ENSMUST00000098845.10/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.03 seconds (37.20 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000181405.3/genome.fa ./simulatedmRNAs/ENSMUST00000181405.3/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.00 seconds (245.17 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000156185.2/genome.fa ./simulatedmRNAs/ENSMUST00000156185.2/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.01 seconds (167.76 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000004732.7/genome.fa ./simulatedmRNAs/ENSMUST00000004732.7/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.00 seconds (228.11 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000109087.8/genome.fa ./simulatedmRNAs/ENSMUST00000109087.8/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.01 seconds (92.15 queries/sec)
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000022257.4/genome.fa ./simulatedmRNAs/ENSMUST00000022257.4/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+# Running alignment_mode=forward, splice_mode=forward
+Starting alignment
+Processed 1 queries in 0.05 seconds (19.43 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000113445.2/genome.fa ./simulatedmRNAs/ENSMUST00000113445.2/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.02 seconds (60.79 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000192856.6/genome.fa ./simulatedmRNAs/ENSMUST00000192856.6/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.00 seconds (272.75 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000209164.3/genome.fa ./simulatedmRNAs/ENSMUST00000209164.3/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.00 seconds (349.37 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000025385.7/genome.fa ./simulatedmRNAs/ENSMUST00000025385.7/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.02 seconds (43.09 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000101295.9/genome.fa ./simulatedmRNAs/ENSMUST00000101295.9/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.01 seconds (138.21 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000117780.2/genome.fa ./simulatedmRNAs/ENSMUST00000117780.2/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.01 seconds (193.89 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+GMAP version 2024-03-15 called with args: gmap.avx512 -g ./simulatedmRNAs/ENSMUST00000161670.4/genome.fa ./simulatedmRNAs/ENSMUST00000161670.4/cdna.fa --format=3
+Checking compiler assumptions for SSE2: 6B8B4567 327B23C6 xor=59F066A1
+Checking compiler assumptions for SSE4.1: -103 -58 max=198 => compiler zero extends
+Checking compiler options for SSE4.2: 6B8B4567 __builtin_clz=1 __builtin_ctz=0 _mm_popcnt_u32=17 __builtin_popcount=17 
+Finished checking compiler assumptions
+Starting alignment
+Processed 1 queries in 0.04 seconds (27.45 queries/sec)
+# Running alignment_mode=forward, splice_mode=forward
+running ENSMUST00000098237.9
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000098237.9/ -t ./simulatedmRNAs/ENSMUST00000098237.9/genome.fa -q ./simulatedmRNAs/ENSMUST00000098237.9/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000098237.9
+running ENSMUST00000141000.2
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000141000.2/ -t ./simulatedmRNAs/ENSMUST00000141000.2/genome.fa -q ./simulatedmRNAs/ENSMUST00000141000.2/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000141000.2
+running ENSMUST00000020161.10
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000020161.10/ -t ./simulatedmRNAs/ENSMUST00000020161.10/genome.fa -q ./simulatedmRNAs/ENSMUST00000020161.10/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000020161.10
+running ENSMUST00000207628.2
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000207628.2/ -t ./simulatedmRNAs/ENSMUST00000207628.2/genome.fa -q ./simulatedmRNAs/ENSMUST00000207628.2/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000207628.2
+running ENSMUST00000032560.6
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000032560.6/ -t ./simulatedmRNAs/ENSMUST00000032560.6/genome.fa -q ./simulatedmRNAs/ENSMUST00000032560.6/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000032560.6
+running ENSMUST00000181405.3
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000181405.3/ -t ./simulatedmRNAs/ENSMUST00000181405.3/genome.fa -q ./simulatedmRNAs/ENSMUST00000181405.3/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000181405.3
+running ENSMUST00000004732.7
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000004732.7/ -t ./simulatedmRNAs/ENSMUST00000004732.7/genome.fa -q ./simulatedmRNAs/ENSMUST00000004732.7/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000004732.7
+running ENSMUST00000221763.2
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000221763.2/ -t ./simulatedmRNAs/ENSMUST00000221763.2/genome.fa -q ./simulatedmRNAs/ENSMUST00000221763.2/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000221763.2
+running ENSMUST00000209164.3
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000209164.3/ -t ./simulatedmRNAs/ENSMUST00000209164.3/genome.fa -q ./simulatedmRNAs/ENSMUST00000209164.3/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000209164.3
+running ENSMUST00000106964.8
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000106964.8/ -t ./simulatedmRNAs/ENSMUST00000106964.8/genome.fa -q ./simulatedmRNAs/ENSMUST00000106964.8/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000106964.8
+running ENSMUST00000098845.10
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000098845.10/ -t ./simulatedmRNAs/ENSMUST00000098845.10/genome.fa -q ./simulatedmRNAs/ENSMUST00000098845.10/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000098845.10
+running ENSMUST00000177289.9
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000177289.9/ -t ./simulatedmRNAs/ENSMUST00000177289.9/genome.fa -q ./simulatedmRNAs/ENSMUST00000177289.9/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000177289.9
+running ENSMUST00000117780.2
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000117780.2/ -t ./simulatedmRNAs/ENSMUST00000117780.2/genome.fa -q ./simulatedmRNAs/ENSMUST00000117780.2/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000117780.2
+running ENSMUST00000108571.9
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000108571.9/ -t ./simulatedmRNAs/ENSMUST00000108571.9/genome.fa -q ./simulatedmRNAs/ENSMUST00000108571.9/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000108571.9
+running ENSMUST00000160853.8
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000160853.8/ -t ./simulatedmRNAs/ENSMUST00000160853.8/genome.fa -q ./simulatedmRNAs/ENSMUST00000160853.8/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000160853.8
+running ENSMUST00000227009.2
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000227009.2/ -t ./simulatedmRNAs/ENSMUST00000227009.2/genome.fa -q ./simulatedmRNAs/ENSMUST00000227009.2/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000227009.2
+running ENSMUST00000186801.2
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000186801.2/ -t ./simulatedmRNAs/ENSMUST00000186801.2/genome.fa -q ./simulatedmRNAs/ENSMUST00000186801.2/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000186801.2
+running ENSMUST00000109087.8
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000109087.8/ -t ./simulatedmRNAs/ENSMUST00000109087.8/genome.fa -q ./simulatedmRNAs/ENSMUST00000109087.8/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000109087.8
+running ENSMUST00000103199.9
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000103199.9/ -t ./simulatedmRNAs/ENSMUST00000103199.9/genome.fa -q ./simulatedmRNAs/ENSMUST00000103199.9/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000103199.9
+running ENSMUST00000025751.11
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000025751.11/ -t ./simulatedmRNAs/ENSMUST00000025751.11/genome.fa -q ./simulatedmRNAs/ENSMUST00000025751.11/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000025751.11
+running ENSMUST00000029805.13
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000029805.13/ -t ./simulatedmRNAs/ENSMUST00000029805.13/genome.fa -q ./simulatedmRNAs/ENSMUST00000029805.13/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000029805.13
+running ENSMUST00000066674.8
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000066674.8/ -t ./simulatedmRNAs/ENSMUST00000066674.8/genome.fa -q ./simulatedmRNAs/ENSMUST00000066674.8/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000066674.8
+running ENSMUST00000048112.13
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000048112.13/ -t ./simulatedmRNAs/ENSMUST00000048112.13/genome.fa -q ./simulatedmRNAs/ENSMUST00000048112.13/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000048112.13
+running ENSMUST00000030140.3
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000030140.3/ -t ./simulatedmRNAs/ENSMUST00000030140.3/genome.fa -q ./simulatedmRNAs/ENSMUST00000030140.3/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000030140.3
+running ENSMUST00000206687.2
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000206687.2/ -t ./simulatedmRNAs/ENSMUST00000206687.2/genome.fa -q ./simulatedmRNAs/ENSMUST00000206687.2/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000206687.2
+running ENSMUST00000178341.2
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000178341.2/ -t ./simulatedmRNAs/ENSMUST00000178341.2/genome.fa -q ./simulatedmRNAs/ENSMUST00000178341.2/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000178341.2
+running ENSMUST00000156185.2
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000156185.2/ -t ./simulatedmRNAs/ENSMUST00000156185.2/genome.fa -q ./simulatedmRNAs/ENSMUST00000156185.2/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000156185.2
+running ENSMUST00000101295.9
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000101295.9/ -t ./simulatedmRNAs/ENSMUST00000101295.9/genome.fa -q ./simulatedmRNAs/ENSMUST00000101295.9/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000101295.9
+running ENSMUST00000202651.4
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000202651.4/ -t ./simulatedmRNAs/ENSMUST00000202651.4/genome.fa -q ./simulatedmRNAs/ENSMUST00000202651.4/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000202651.4
+running ENSMUST00000134446.8
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000134446.8/ -t ./simulatedmRNAs/ENSMUST00000134446.8/genome.fa -q ./simulatedmRNAs/ENSMUST00000134446.8/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000134446.8
+running ENSMUST00000033331.7
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000033331.7/ -t ./simulatedmRNAs/ENSMUST00000033331.7/genome.fa -q ./simulatedmRNAs/ENSMUST00000033331.7/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000033331.7
+running ENSMUST00000202578.4
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000202578.4/ -t ./simulatedmRNAs/ENSMUST00000202578.4/genome.fa -q ./simulatedmRNAs/ENSMUST00000202578.4/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000202578.4
+running ENSMUST00000134663.2
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000134663.2/ -t ./simulatedmRNAs/ENSMUST00000134663.2/genome.fa -q ./simulatedmRNAs/ENSMUST00000134663.2/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000134663.2
+running ENSMUST00000050990.10
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000050990.10/ -t ./simulatedmRNAs/ENSMUST00000050990.10/genome.fa -q ./simulatedmRNAs/ENSMUST00000050990.10/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000050990.10
+running ENSMUST00000033918.4
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000033918.4/ -t ./simulatedmRNAs/ENSMUST00000033918.4/genome.fa -q ./simulatedmRNAs/ENSMUST00000033918.4/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000033918.4
+running ENSMUST00000192856.6
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000192856.6/ -t ./simulatedmRNAs/ENSMUST00000192856.6/genome.fa -q ./simulatedmRNAs/ENSMUST00000192856.6/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000192856.6
+running ENSMUST00000025385.7
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000025385.7/ -t ./simulatedmRNAs/ENSMUST00000025385.7/genome.fa -q ./simulatedmRNAs/ENSMUST00000025385.7/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000025385.7
+running ENSMUST00000041944.9
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000041944.9/ -t ./simulatedmRNAs/ENSMUST00000041944.9/genome.fa -q ./simulatedmRNAs/ENSMUST00000041944.9/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000041944.9
+running ENSMUST00000110186.9
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000110186.9/ -t ./simulatedmRNAs/ENSMUST00000110186.9/genome.fa -q ./simulatedmRNAs/ENSMUST00000110186.9/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000110186.9
+running ENSMUST00000022257.4
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000022257.4/ -t ./simulatedmRNAs/ENSMUST00000022257.4/genome.fa -q ./simulatedmRNAs/ENSMUST00000022257.4/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000022257.4
+running ENSMUST00000109697.8
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000109697.8/ -t ./simulatedmRNAs/ENSMUST00000109697.8/genome.fa -q ./simulatedmRNAs/ENSMUST00000109697.8/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000109697.8
+running ENSMUST00000161670.4
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000161670.4/ -t ./simulatedmRNAs/ENSMUST00000161670.4/genome.fa -q ./simulatedmRNAs/ENSMUST00000161670.4/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000161670.4
+running ENSMUST00000100841.9
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000100841.9/ -t ./simulatedmRNAs/ENSMUST00000100841.9/genome.fa -q ./simulatedmRNAs/ENSMUST00000100841.9/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000100841.9
+running ENSMUST00000153523.2
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000153523.2/ -t ./simulatedmRNAs/ENSMUST00000153523.2/genome.fa -q ./simulatedmRNAs/ENSMUST00000153523.2/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000153523.2
+running ENSMUST00000108831.8
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000108831.8/ -t ./simulatedmRNAs/ENSMUST00000108831.8/genome.fa -q ./simulatedmRNAs/ENSMUST00000108831.8/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000108831.8
+running ENSMUST00000185618.2
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000185618.2/ -t ./simulatedmRNAs/ENSMUST00000185618.2/genome.fa -q ./simulatedmRNAs/ENSMUST00000185618.2/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000185618.2
+running ENSMUST00000071993.13
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000071993.13/ -t ./simulatedmRNAs/ENSMUST00000071993.13/genome.fa -q ./simulatedmRNAs/ENSMUST00000071993.13/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000071993.13
+running ENSMUST00000032629.16
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000032629.16/ -t ./simulatedmRNAs/ENSMUST00000032629.16/genome.fa -q ./simulatedmRNAs/ENSMUST00000032629.16/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000032629.16
+running ENSMUST00000166170.9
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000166170.9/ -t ./simulatedmRNAs/ENSMUST00000166170.9/genome.fa -q ./simulatedmRNAs/ENSMUST00000166170.9/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000166170.9
+running ENSMUST00000212168.2
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000212168.2/ -t ./simulatedmRNAs/ENSMUST00000212168.2/genome.fa -q ./simulatedmRNAs/ENSMUST00000212168.2/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000212168.2
+running ENSMUST00000112969.10
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000112969.10/ -t ./simulatedmRNAs/ENSMUST00000112969.10/genome.fa -q ./simulatedmRNAs/ENSMUST00000112969.10/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000112969.10
+running ENSMUST00000113445.2
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000113445.2/ -t ./simulatedmRNAs/ENSMUST00000113445.2/genome.fa -q ./simulatedmRNAs/ENSMUST00000113445.2/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000113445.2
+running ENSMUST00000016143.9
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000016143.9/ -t ./simulatedmRNAs/ENSMUST00000016143.9/genome.fa -q ./simulatedmRNAs/ENSMUST00000016143.9/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000016143.9
+running ENSMUST00000222784.2
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000222784.2/ -t ./simulatedmRNAs/ENSMUST00000222784.2/genome.fa -q ./simulatedmRNAs/ENSMUST00000222784.2/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000222784.2
+running ENSMUST00000187666.2
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000187666.2/ -t ./simulatedmRNAs/ENSMUST00000187666.2/genome.fa -q ./simulatedmRNAs/ENSMUST00000187666.2/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000187666.2
+running ENSMUST00000223490.2
+Pairagon.pl -o ./simulatedmRNAs/ENSMUST00000223490.2/ -t ./simulatedmRNAs/ENSMUST00000223490.2/genome.fa -q ./simulatedmRNAs/ENSMUST00000223490.2/cdna.fa -gtf -p pairagon_seeded -alignment -a GMap
+done! ENSMUST00000223490.2

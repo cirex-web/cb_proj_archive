@@ -1,0 +1,14 @@
+human
+mouse
+tests
+full.db
+path
+test_stricter_human_genome_with_2_nt_ext
+test_stricter_human_genome_with_1_nt_ext
+test_stricter_human_genome
+mouse_mutated_sub
+derek/GRCm39.genome.fa
+derek/gencode.vM34.chr_patch_hapl_scaff.basic.annotation.gtf
+derek/gencode.vM34.transcripts.fa
+derek/mutatedRNAs*
+derek/simulatedmRNAs

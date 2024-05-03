@@ -1,0 +1,50 @@
+# pairagon pairagon_generations/0/9.zhmm ./mini_test/ENST00000448667.5/cdna.fa ./mini_test/ENST00000448667.5/genome.fa --seed=./mini_test/ENST00000448667.5//9_.seed --splice_mode=cdna -o -i
+# Date: Wed May  1 22:43:27 2024
+# Pairagon version 1.1 build 20090501
+# PairHMM Parameters: pairagon_generations/0/9.zhmm
+# Seed alignment found in + strand of cDNA. forward alignment_mode enforced
+# Spliced alignment without quality value for cDNA
+# Genomic Sequence: >ENST00000448667.5 ENSG00000198556.14, 13915bp
+# cDNA    Sequence: >cDNA_ENST00000448667.5 ENSG00000198556.14, 1055bp
+# Note Best alignment is between forward est and forward genome, and splice sites imply forward gene
+# Completed in 27.00 CPU seconds
+# Optimal score: 19887.960343
+RGenomic1   	        -135	0.0	         -48	           2	   ENST00000448667.5	         -48	           0	 cDNA_ENST0000044866	+
+Match       	        3300	100.0	           3	         169	   ENST00000448667.5	           1	         167	 cDNA_ENST0000044866	+
+DonorU2     	          19	0.0	         170	         177	   ENST00000448667.5	            	            	                    	+
+IntronU2    	        -131	0.0	         178	        3492	   ENST00000448667.5	            	            	                    	+
+BranchU2    	           0	0.0	        3493	        3500	   ENST00000448667.5	            	            	                    	+
+BrAccU2     	         -33	0.0	        3501	        3509	   ENST00000448667.5	            	            	                    	+
+AccU2       	          72	0.0	        3510	        3515	   ENST00000448667.5	            	            	                    	+
+Match       	        1486	100.0	        3516	        3593	   ENST00000448667.5	         168	         245	 cDNA_ENST0000044866	+
+DonorU2     	          67	0.0	        3594	        3601	   ENST00000448667.5	            	            	                    	+
+IntronU2    	        -126	0.0	        3602	        5363	   ENST00000448667.5	            	            	                    	+
+BranchU2    	           0	0.0	        5364	        5371	   ENST00000448667.5	            	            	                    	+
+BrAccU2     	         -33	0.0	        5372	        5380	   ENST00000448667.5	            	            	                    	+
+AccU2       	          47	0.0	        5381	        5386	   ENST00000448667.5	            	            	                    	+
+Match       	        1558	100.0	        5387	        5469	   ENST00000448667.5	         246	         328	 cDNA_ENST0000044866	+
+DonorU2     	          70	0.0	        5470	        5477	   ENST00000448667.5	            	            	                    	+
+IntronU2    	        -124	0.0	        5478	        6750	   ENST00000448667.5	            	            	                    	+
+BranchU2    	           0	0.0	        6751	        6758	   ENST00000448667.5	            	            	                    	+
+BrAccU2     	         -33	0.0	        6759	        6767	   ENST00000448667.5	            	            	                    	+
+AccU2       	          74	0.0	        6768	        6773	   ENST00000448667.5	            	            	                    	+
+Match       	        2424	100.0	        6774	        6900	   ENST00000448667.5	         329	         455	 cDNA_ENST0000044866	+
+DonorU2     	          53	0.0	        6901	        6908	   ENST00000448667.5	            	            	                    	+
+IntronU2    	        -134	0.0	        6909	       11119	   ENST00000448667.5	            	            	                    	+
+BranchU2    	           0	0.0	       11120	       11127	   ENST00000448667.5	            	            	                    	+
+BrAccU2     	         -33	0.0	       11128	       11136	   ENST00000448667.5	            	            	                    	+
+AccU2       	          10	0.0	       11137	       11142	   ENST00000448667.5	            	            	                    	+
+Match       	        2159	100.0	       11143	       11256	   ENST00000448667.5	         456	         569	 cDNA_ENST0000044866	+
+DonorU2     	          66	0.0	       11257	       11264	   ENST00000448667.5	            	            	                    	+
+IntronU2    	        -123	0.0	       11265	       12297	   ENST00000448667.5	            	            	                    	+
+BranchU2    	           0	0.0	       12298	       12305	   ENST00000448667.5	            	            	                    	+
+BrAccU2     	         -33	0.0	       12306	       12314	   ENST00000448667.5	            	            	                    	+
+AccU2       	          44	0.0	       12315	       12320	   ENST00000448667.5	            	            	                    	+
+Match       	        3055	100.0	       12321	       12481	   ENST00000448667.5	         570	         730	 cDNA_ENST0000044866	+
+DonorU2     	          43	0.0	       12482	       12489	   ENST00000448667.5	            	            	                    	+
+IntronU2    	        -124	0.0	       12490	       13565	   ENST00000448667.5	            	            	                    	+
+BranchU2    	           0	0.0	       13566	       13573	   ENST00000448667.5	            	            	                    	+
+BrAccU2     	         -33	0.0	       13574	       13582	   ENST00000448667.5	            	            	                    	+
+AccU2       	          13	0.0	       13583	       13588	   ENST00000448667.5	            	            	                    	+
+Match       	        6124	100.0	       13589	       13913	   ENST00000448667.5	         731	        1055	 cDNA_ENST0000044866	+
+RGenomic2   	        -133	0.0	       13914	       13915	   ENST00000448667.5	            	            	                    	+

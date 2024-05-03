@@ -1,0 +1,6 @@
+>cDNA_ENST00000533953.5 ENSG00000089505.18
+genomic_boundary_start=1 genomic_boundary_end=12709 strand=+
+count=3
+(3, 1) (532, 530)
+(10676, 531) (10774, 629)
+(12403, 630) (12707, 934)

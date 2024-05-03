@@ -1,0 +1,20 @@
+# pairagon /home/work/pairagon/pairagon//parameters/pairagon.zhmm ./mouse_perfect/ENSMUST00000125177.2/cdna.fa ./mouse_perfect/ENSMUST00000125177.2/genome.fa --seed=./mouse_perfect/ENSMUST00000125177.2//pairagon_seeded.seed --splice_mode=cdna -o -i
+# Date: Sat Apr 27 16:42:04 2024
+# Pairagon version 1.1 build 20090501
+# PairHMM Parameters: /home/work/pairagon/pairagon//parameters/pairagon.zhmm
+# Seed alignment found in + strand of cDNA. forward alignment_mode enforced
+# Spliced alignment without quality value for cDNA
+# Genomic Sequence: >ENSMUST00000125177.2 ENSMUSG00000023990.19, 27026bp
+# cDNA    Sequence: >cDNA_ENSMUST00000125177.2 ENSMUSG00000023990.19, 564bp
+# Note Best alignment is between forward est and forward genome, and splice sites imply forward gene
+# Completed in 141.00 CPU seconds
+# Optimal score: 11292.960027
+RGenomic1   	        -133	0.0	         -48	           2	 ENSMUST00000125177.	         -48	           0	 cDNA_ENSMUST0000012	+
+Match       	        6512	100.0	           3	         334	 ENSMUST00000125177.	           1	         332	 cDNA_ENSMUST0000012	+
+DonorU2     	          75	0.0	         335	         342	 ENSMUST00000125177.	            	            	                    	+
+IntronU2    	        -194	0.0	         343	       26770	 ENSMUST00000125177.	            	            	                    	+
+BranchU2    	           0	0.0	       26771	       26778	 ENSMUST00000125177.	            	            	                    	+
+BrAccU2     	         -13	0.0	       26779	       26786	 ENSMUST00000125177.	            	            	                    	+
+AccU2       	          69	0.0	       26787	       26792	 ENSMUST00000125177.	            	            	                    	+
+Match       	        4619	100.0	       26793	       27024	 ENSMUST00000125177.	         333	         564	 cDNA_ENSMUST0000012	+
+RGenomic2   	        -133	0.0	       27025	       27026	 ENSMUST00000125177.	            	            	                    	+

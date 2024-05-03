@@ -1,0 +1,8 @@
+##gff-version   3
+BC000006	??	cDNA_match	10001	35022	0	+	.	ID=;Target= 1 1208
+BC000006	??	match_part	10001	10183	100.0	+	.	Parent=;Target= 1 183;Gap=M183
+BC000006	??	match_part	14627	14755	100.0	+	.	Parent=;Target= 184 312;Gap=M129
+BC000006	??	match_part	28141	28296	100.0	+	.	Parent=;Target= 313 468;Gap=M156
+BC000006	??	match_part	30481	30665	100.0	+	.	Parent=;Target= 469 653;Gap=M185
+BC000006	??	match_part	33267	33347	100.0	+	.	Parent=;Target= 654 734;Gap=M81
+BC000006	??	match_part	34549	35022	100.0	+	.	Parent=;Target= 735 1208;Gap=M474

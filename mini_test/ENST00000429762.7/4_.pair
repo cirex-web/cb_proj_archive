@@ -1,0 +1,38 @@
+# pairagon pairagon_generations/1/4.zhmm ./mini_test/ENST00000429762.7/cdna.fa ./mini_test/ENST00000429762.7/genome.fa --seed=./mini_test/ENST00000429762.7//4_.seed --splice_mode=cdna -o -i
+# Date: Sun Apr 28 21:44:38 2024
+# Pairagon version 1.1 build 20090501
+# PairHMM Parameters: pairagon_generations/1/4.zhmm
+# Seed alignment found in - strand of cDNA. reverse alignment_mode enforced
+# Spliced alignment without quality value for cDNA
+# Genomic Sequence: >ENST00000429762.7 ENSG00000100987.15, 11251bp
+# cDNA    Sequence: >cDNA_ENST00000429762.7 ENSG00000100987.15, 1977bp
+# Note Best alignment is between reversed est and forward genome, but splice sites imply REVERSED gene
+# Completed in 37.00 CPU seconds
+# Optimal score: 38347.721426
+RGenomic1   	        -135	0.0	         -48	           2	   ENST00000429762.7	         -48	           0	 cDNA_ENST0000042976	-
+Match       	       21719	100.0	           3	        1136	   ENST00000429762.7	           1	        1134	 cDNA_ENST0000042976	-
+AccU2       	          74	0.0	        1137	        1142	   ENST00000429762.7	            	            	                    	-
+BrAccU2     	         -33	0.0	        1143	        1151	   ENST00000429762.7	            	            	                    	-
+BranchU2    	           0	0.0	        1152	        1159	   ENST00000429762.7	            	            	                    	-
+IntronU2    	        -138	0.0	        1160	        6794	   ENST00000429762.7	            	            	                    	-
+DonorU2     	          76	0.0	        6795	        6802	   ENST00000429762.7	            	            	                    	-
+Match       	        3585	100.0	        6803	        6983	   ENST00000429762.7	        1135	        1315	 cDNA_ENST0000042976	-
+AccU2       	          23	0.0	        6984	        6989	   ENST00000429762.7	            	            	                    	-
+BrAccU2     	         -33	0.0	        6990	        6998	   ENST00000429762.7	            	            	                    	-
+BranchU2    	           0	0.0	        6999	        7006	   ENST00000429762.7	            	            	                    	-
+IntronU2    	        -123	0.0	        7007	        7938	   ENST00000429762.7	            	            	                    	-
+DonorU2     	          28	0.0	        7939	        7946	   ENST00000429762.7	            	            	                    	-
+Match       	        2361	100.0	        7947	        8070	   ENST00000429762.7	        1316	        1439	 cDNA_ENST0000042976	-
+AccU2       	          70	0.0	        8071	        8076	   ENST00000429762.7	            	            	                    	-
+BrAccU2     	         -33	0.0	        8077	        8085	   ENST00000429762.7	            	            	                    	-
+BranchU2    	           0	0.0	        8086	        8093	   ENST00000429762.7	            	            	                    	-
+IntronU2    	        -122	0.0	        8094	        8545	   ENST00000429762.7	            	            	                    	-
+DonorU2     	          25	0.0	        8546	        8553	   ENST00000429762.7	            	            	                    	-
+Match       	        1497	100.0	        8554	        8632	   ENST00000429762.7	        1440	        1518	 cDNA_ENST0000042976	-
+AccU2       	          44	0.0	        8633	        8638	   ENST00000429762.7	            	            	                    	-
+BrAccU2     	         -33	0.0	        8639	        8647	   ENST00000429762.7	            	            	                    	-
+BranchU2    	           0	0.0	        8648	        8655	   ENST00000429762.7	            	            	                    	-
+IntronU2    	        -127	0.0	        8656	       10782	   ENST00000429762.7	            	            	                    	-
+DonorU2     	          40	0.0	       10783	       10790	   ENST00000429762.7	            	            	                    	-
+Match       	        9268	100.0	       10791	       11249	   ENST00000429762.7	        1519	        1977	 cDNA_ENST0000042976	-
+RGenomic2   	        -133	0.0	       11250	       11251	   ENST00000429762.7	            	            	                    	-

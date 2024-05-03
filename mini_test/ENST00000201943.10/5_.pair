@@ -1,0 +1,86 @@
+# pairagon pairagon_generations/0/5.zhmm ./mini_test/ENST00000201943.10/cdna.fa ./mini_test/ENST00000201943.10/genome.fa --seed=./mini_test/ENST00000201943.10//5_.seed --splice_mode=cdna -o -i
+# Date: Wed May  1 22:52:51 2024
+# Pairagon version 1.1 build 20090501
+# PairHMM Parameters: pairagon_generations/0/5.zhmm
+# Seed alignment found in - strand of cDNA. reverse alignment_mode enforced
+# Spliced alignment without quality value for cDNA
+# Genomic Sequence: >ENST00000201943.10 ENSG00000182389.20, 259909bp
+# cDNA    Sequence: >cDNA_ENST00000201943.10 ENSG00000182389.20, 1389bp
+# Note Best alignment is between reversed est and forward genome, but splice sites imply REVERSED gene
+# Completed in 212.00 CPU seconds
+# Optimal score: 25419.128709
+RGenomic1   	        -133	0.0	         -48	           2	  ENST00000201943.10	         -48	           0	 cDNA_ENST0000020194	-
+Match       	        5033	100.0	           3	         263	  ENST00000201943.10	           1	         261	 cDNA_ENST0000020194	-
+AccU2       	          56	0.0	         264	         269	  ENST00000201943.10	            	            	                    	-
+BrAccU2     	         -13	0.0	         270	         277	  ENST00000201943.10	            	            	                    	-
+BranchU2    	           0	0.0	         278	         285	  ENST00000201943.10	            	            	                    	-
+IntronU2    	        -161	0.0	         286	       14323	  ENST00000201943.10	            	            	                    	-
+DonorU2     	          89	0.0	       14324	       14331	  ENST00000201943.10	            	            	                    	-
+Match       	        1787	100.0	       14332	       14427	  ENST00000201943.10	         262	         357	 cDNA_ENST0000020194	-
+AccU2       	          45	0.0	       14428	       14433	  ENST00000201943.10	            	            	                    	-
+BrAccU2     	         -13	0.0	       14434	       14441	  ENST00000201943.10	            	            	                    	-
+BranchU2    	           0	0.0	       14442	       14449	  ENST00000201943.10	            	            	                    	-
+IntronU2    	        -127	0.0	       14450	       16099	  ENST00000201943.10	            	            	                    	-
+DonorU2     	          53	0.0	       16100	       16107	  ENST00000201943.10	            	            	                    	-
+Match       	        2851	100.0	       16108	       16259	  ENST00000201943.10	         358	         509	 cDNA_ENST0000020194	-
+AccU2       	          32	0.0	       16260	       16265	  ENST00000201943.10	            	            	                    	-
+BrAccU2     	         -13	0.0	       16266	       16273	  ENST00000201943.10	            	            	                    	-
+BranchU2    	           0	0.0	       16274	       16281	  ENST00000201943.10	            	            	                    	-
+IntronU2    	        -137	0.0	       16282	       21586	  ENST00000201943.10	            	            	                    	-
+DonorU2     	          72	0.0	       21587	       21594	  ENST00000201943.10	            	            	                    	-
+Match       	        2065	100.0	       21595	       21704	  ENST00000201943.10	         510	         619	 cDNA_ENST0000020194	-
+AccU2       	          50	0.0	       21705	       21710	  ENST00000201943.10	            	            	                    	-
+BrAccU2     	         -13	0.0	       21711	       21718	  ENST00000201943.10	            	            	                    	-
+BranchU2    	           0	0.0	       21719	       21726	  ENST00000201943.10	            	            	                    	-
+IntronU2    	        -145	0.0	       21727	       30052	  ENST00000201943.10	            	            	                    	-
+DonorU2     	          69	0.0	       30053	       30060	  ENST00000201943.10	            	            	                    	-
+Match       	        1081	100.0	       30061	       30119	  ENST00000201943.10	         620	         678	 cDNA_ENST0000020194	-
+AccU2       	          -1	0.0	       30120	       30125	  ENST00000201943.10	            	            	                    	-
+BrAccU2     	         -13	0.0	       30126	       30133	  ENST00000201943.10	            	            	                    	-
+BranchU2    	           0	0.0	       30134	       30141	  ENST00000201943.10	            	            	                    	-
+IntronU2    	        -126	0.0	       30142	       31406	  ENST00000201943.10	            	            	                    	-
+DonorU2     	           7	0.0	       31407	       31414	  ENST00000201943.10	            	            	                    	-
+Match       	        1535	100.0	       31415	       31495	  ENST00000201943.10	         679	         759	 cDNA_ENST0000020194	-
+AccU2       	          72	0.0	       31496	       31501	  ENST00000201943.10	            	            	                    	-
+BrAccU2     	         -13	0.0	       31502	       31509	  ENST00000201943.10	            	            	                    	-
+BranchU2    	           0	0.0	       31510	       31517	  ENST00000201943.10	            	            	                    	-
+IntronU2    	        -123	0.0	       31518	       31717	  ENST00000201943.10	            	            	                    	-
+DonorU2     	          87	0.0	       31718	       31725	  ENST00000201943.10	            	            	                    	-
+Match       	         310	100.0	       31726	       31745	  ENST00000201943.10	         760	         779	 cDNA_ENST0000020194	-
+AccU2       	          56	0.0	       31746	       31751	  ENST00000201943.10	            	            	                    	-
+BrAccU2     	         -13	0.0	       31752	       31759	  ENST00000201943.10	            	            	                    	-
+BranchU2    	           0	0.0	       31760	       31767	  ENST00000201943.10	            	            	                    	-
+IntronU2    	        -127	0.0	       31768	       33292	  ENST00000201943.10	            	            	                    	-
+DonorU2     	          81	0.0	       33293	       33300	  ENST00000201943.10	            	            	                    	-
+Match       	        1422	100.0	       33301	       33377	  ENST00000201943.10	         780	         856	 cDNA_ENST0000020194	-
+AccU2       	          57	0.0	       33378	       33383	  ENST00000201943.10	            	            	                    	-
+BrAccU2     	         -13	0.0	       33384	       33391	  ENST00000201943.10	            	            	                    	-
+BranchU2    	           0	0.0	       33392	       33399	  ENST00000201943.10	            	            	                    	-
+IntronU2    	        -133	0.0	       33400	       37301	  ENST00000201943.10	            	            	                    	-
+DonorU2     	          57	0.0	       37302	       37309	  ENST00000201943.10	            	            	                    	-
+Match       	        2482	100.0	       37310	       37440	  ENST00000201943.10	         857	         987	 cDNA_ENST0000020194	-
+AccU2       	          77	0.0	       37441	       37446	  ENST00000201943.10	            	            	                    	-
+BrAccU2     	         -13	0.0	       37447	       37454	  ENST00000201943.10	            	            	                    	-
+BranchU2    	           0	0.0	       37455	       37462	  ENST00000201943.10	            	            	                    	-
+IntronU2    	        -134	0.0	       37463	       41675	  ENST00000201943.10	            	            	                    	-
+DonorU2     	          57	0.0	       41676	       41683	  ENST00000201943.10	            	            	                    	-
+Match       	        2333	100.0	       41684	       41806	  ENST00000201943.10	         988	        1110	 cDNA_ENST0000020194	-
+AccU2       	          56	0.0	       41807	       41812	  ENST00000201943.10	            	            	                    	-
+BrAccU2     	         -13	0.0	       41813	       41820	  ENST00000201943.10	            	            	                    	-
+BranchU2    	           0	0.0	       41821	       41828	  ENST00000201943.10	            	            	                    	-
+IntronU2    	        -129	0.0	       41829	       44126	  ENST00000201943.10	            	            	                    	-
+DonorU2     	          84	0.0	       44127	       44134	  ENST00000201943.10	            	            	                    	-
+Match       	        2305	100.0	       44135	       44254	  ENST00000201943.10	        1111	        1230	 cDNA_ENST0000020194	-
+AccU2       	          50	0.0	       44255	       44260	  ENST00000201943.10	            	            	                    	-
+BrAccU2     	         -13	0.0	       44261	       44268	  ENST00000201943.10	            	            	                    	-
+BranchU2    	           0	0.0	       44269	       44276	  ENST00000201943.10	            	            	                    	-
+IntronU2    	        -706	0.0	       44277	      259205	  ENST00000201943.10	            	            	                    	-
+DonorU2     	          49	0.0	      259206	      259213	  ENST00000201943.10	            	            	                    	-
+Match       	        1605	100.0	      259214	      259297	  ENST00000201943.10	        1231	        1314	 cDNA_ENST0000020194	-
+AccU2       	          50	0.0	      259298	      259303	  ENST00000201943.10	            	            	                    	-
+BrAccU2     	         -13	0.0	      259304	      259311	  ENST00000201943.10	            	            	                    	-
+BranchU2    	           0	0.0	      259312	      259319	  ENST00000201943.10	            	            	                    	-
+IntronU2    	        -124	0.0	      259320	      259824	  ENST00000201943.10	            	            	                    	-
+DonorU2     	          11	0.0	      259825	      259832	  ENST00000201943.10	            	            	                    	-
+Match       	        1446	100.0	      259833	      259907	  ENST00000201943.10	        1315	        1389	 cDNA_ENST0000020194	-
+RGenomic2   	        -133	0.0	      259908	      259909	  ENST00000201943.10	            	            	                    	-
